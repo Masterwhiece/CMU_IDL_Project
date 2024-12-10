@@ -60,8 +60,7 @@ Goal: Enhancing StyleCLIP
     **Example**: `python run_optimization.py --mode edit --description "A person with green hair"
 
 ### If you want to run on new images
-1. Extract latent vector from new image
+1. Extract latent vector from new image  
 2. Just do exactly as above, but give `--latent_path` new image's latent vector
     **Example**: `python run_optimization.py --mode edit --description "A person with green hair" --latent_path ./latent.pt`
 
-    
