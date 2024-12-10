@@ -1,7 +1,8 @@
 # Carnegie Mellon University IntroDL Project
+# Expanding StyleCLIP: Enhancing Text-Driven Image Manipulation Beyond Facial Datasets
 Team Members: Andy Tang, Pranav Setlur, Youjeong Roh, Minwoo Oh  
 
-Goal: Enhancing StyleCLIP  
+Goal: Enhancing StyleCLIP beyond facial images  
 
 ## Requirements
 - Python 3.8
